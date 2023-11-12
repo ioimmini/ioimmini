@@ -1,7 +1,7 @@
 <div align="center">
 
-  ### Welcome 
-  Hi, Jeongmin CHOI 🐥
+  ### 🐥 Welcome🐥
+  Hi, Jeongmin CHOI 🐣
 
 ---
   
