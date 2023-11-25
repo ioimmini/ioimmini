@@ -1,7 +1,10 @@
-<div align="center">
 
-  ### 🐥 Welcome🐥
-  Hi, Jeongmin CHOI 🐣
+
+<div align="center">
+  
+
+  ### 🐥🐥
+  Welcome to mini's GitHub🐣
 
 ---
   
