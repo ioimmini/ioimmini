@@ -6,7 +6,7 @@
 <div align="center">
   
 
-  ### 🐥🐥
+  ### 🐥HI🐥
   Welcome to mini's GitHub🐣
 
 ---
