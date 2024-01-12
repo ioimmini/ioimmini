@@ -22,8 +22,7 @@
 ---
   
 ### 🌈 Follow 🌈 
-<a href="https://ioimmini.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE4747?style=flat-square&logo=Tistory&logoColor=white&link=https://www.tistroy.com/ioimmini/"/></a>
-<a href="https://www.instagram.com/ioimmini/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+<a href="https://ioimmini.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE4747?style=flat-square&logo=Tistory&logoColor=white&link=https://www.tistroy.com/ioimmini/"/></a>>
 
 ---
 
