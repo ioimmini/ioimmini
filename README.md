@@ -19,12 +19,11 @@
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black) 
 
 
----
   
 ### 🌈 Follow 🌈 
 <a href="https://ioimmini.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE4747?style=flat-square&logo=Tistory&logoColor=white&link=https://www.tistroy.com/ioimmini/"/></a>
 
----
+
 
 
 
