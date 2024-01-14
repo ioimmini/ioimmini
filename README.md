@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ioimmini&theme=graywhite&show_icons=true" width="42%" />
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryhuio)](https://solved.ac/ryhuio/)]
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryhuio)](https://solved.ac/ryhuio/)] -->
 
 ---
 
