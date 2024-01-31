@@ -1,5 +1,5 @@
 
-<div align="center">
+
   
 
   ### 🐥Welcome to mini's GitHub🐣🐥
