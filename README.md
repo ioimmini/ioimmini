@@ -44,7 +44,8 @@
   <br>
 </div>
 
-  
+ 
+<!-- 
 ### 🌈 Follow 🌈 
 <a href="https://ioimmini.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE4747?style=flat-square&logo=Tistory&logoColor=white&link=https://www.tistroy.com/ioimmini/"/></a>
 
@@ -59,7 +60,7 @@
 </br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ioimmini&theme=graywhite&show_icons=true" width="42%" />
-</a>
+</a>-->
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryhuio)](https://solved.ac/ryhuio/)] -->
