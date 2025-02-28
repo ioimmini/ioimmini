@@ -1,6 +1,6 @@
 <div> 
 <h3>Jeongmin Choi</h3>
-<div>👽Frontend Developer</div>
+<div>👽Developer</div>
 
 
 
