@@ -12,8 +12,11 @@
   />
 </a>
   
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ioimmini"/>
-</a>
-    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ioimmini&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ioimmini"
+  width="600"
+  height="300"
+/>
+</a>    
 </div>
