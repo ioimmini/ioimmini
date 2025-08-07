@@ -8,8 +8,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/ioimmini?pet-id=601629384281388763"
-    width="600"
-    height="120"
+    width="2400"
+    height="600"
   />
 </a>
   
